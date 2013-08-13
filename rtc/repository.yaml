@@ -1,0 +1,6 @@
+ConsoleInput: {description: '', git: 'https://github.com/sugarsweetrobotics/ConsoleInput_cpp.git',
+  hash: dc71222149bc685b6ce4905c6ac462d7d6b600d6}
+ConsoleOutput: {description: '', git: 'https://github.com/sugarsweetrobotics/ConsoleOutput_cpp.git',
+  hash: df22c053eec2677fd0153331c7eb30d993416b95}
+Multiplyer: {description: '', git: 'https://github.com/sugarsweetrobotics/Multiplyer_cpp.git',
+  hash: 9c46884ab86b08d7fc9332d7fedd97cc251fedba}
